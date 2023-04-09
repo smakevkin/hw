@@ -18,16 +18,16 @@ Weighted Round Robin -  улучшенная версия Round Robin. Кажд�
 
 ### Задание 3
 
-![z3](https://github.com/smakevkin/10-5-hw/blob/main/1.png)
+![z3](https://github.com/smakevkin/hw/blob/main/10-5/1.png)
 
 ---
 
 ### Задание 4
 
-![z4](https://github.com/smakevkin/10-5-hw/blob/main/2.png)
+![z4](https://github.com/smakevkin/hw/blob/main/10-5/2.png)
 
 ---
 
 ### Задание 5
 
-![z5](https://github.com/smakevkin/10-5-hw/blob/main/3.png)
+![z5](https://github.com/smakevkin/hw/blob/main/10-5/3.png)
