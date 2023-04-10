@@ -5,7 +5,7 @@
 ### Задание 1
 
 
-1. ![serv](https://github.com/smakevkin/9-2-hw/blob/main/zabba_serv.png)
+1. ![serv](https://github.com/smakevkin/hw/blob/main/9-2/zabba_serv.png)
 2. `git commit -m "xd"`
    `git push origin"`
 

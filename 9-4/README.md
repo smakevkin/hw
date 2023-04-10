@@ -21,5 +21,5 @@
 ### Задание 3
 
 
-![z3-1](https://github.com/smakevkin/hw/blob/main/9-4/31.png)`
-![z3-2](https://github.com/smakevkin/hw/blob/main/9-4/32.png)`
+![z3-1](https://github.com/smakevkin/hw/blob/main/9-4/31.png)
+![z3-2](https://github.com/smakevkin/hw/blob/main/9-4/32.png)
