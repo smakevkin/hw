@@ -81,14 +81,14 @@ virtual_ipaddress {
 
 MASTER
 
-![z1](https://github.com/smakevkin/10-01-hw/blob/main/1.png)
+![z1](https://github.com/smakevkin/hw/blob/main/10-1/1.png)
 
 
 
 
 BACKUP
 
-![z2](https://github.com/smakevkin/10-01-hw/blob/main/2.png)
+![z2](https://github.com/smakevkin/hw/blob/main/10-1/2.png)
 
 
 https://user-images.githubusercontent.com/50344064/230801286-ff5fe6b8-372b-4fd7-a75f-8c7bd0e2d135.mp4
