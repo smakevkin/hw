@@ -91,5 +91,9 @@ BACKUP
 ![z2](https://github.com/smakevkin/hw/blob/main/10-1/2.png)
 
 
-https://user-images.githubusercontent.com/50344064/230801286-ff5fe6b8-372b-4fd7-a75f-8c7bd0e2d135.mp4
+
+https://user-images.githubusercontent.com/50344064/230802902-010e9641-5c62-4fb3-a10a-d2430705e87b.mp4
+
+
+
 
